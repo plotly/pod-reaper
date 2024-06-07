@@ -5,6 +5,13 @@ A kubernetes operator that reaps
 * pods that have reached their lifetime
 * evicted pods
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 ## Configuration
 
 To give a lifetime to your pods, add the following annotation:
